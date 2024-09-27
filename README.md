@@ -10,10 +10,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 Some of my projects are available at [https://miracle-e-marcel-portfolio.netlify.app/](https://miracle-e-marcel-portfolio.netlify.app/)
-
-- 📝 I sometimes write articles on [https://miracle-e-marcel-portfolio.netlify.app/blog](https://miracle-e-marcel-portfolio.netlify.app/blog)
-
 - 💬 Ask me about **Android & IOS Mobile Apps**
 
 - 📫 How to reach me **marcellush123@gmail.com**
