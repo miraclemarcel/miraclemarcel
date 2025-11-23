@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Fintench Mobile App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 💬 Ask me about **Android & IOS Mobile Apps**
 
