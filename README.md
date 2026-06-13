@@ -105,8 +105,3 @@ I approach engineering from a systems perspective:
 * Email: [marcellush123@gmail.com](mailto:marcellush123@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/miracle-marcel-164834147/
 
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=miraclemarcel&show_icons=true&hide_border=true" />
-</p>
